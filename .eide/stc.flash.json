@@ -1,0 +1,6 @@
+{
+    "device": "auto",
+    "baudrate": "115200",
+    "oscFreq": "12000",
+    "port": "COM5"
+}
